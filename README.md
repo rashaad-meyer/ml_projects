@@ -3,6 +3,10 @@ This repository showcases all my personal machine/deep learing projects and thei
 
 # mRNA Degradation
 
+<p align="center">
+<img src="https://www.promegaconnections.com/wp-content/uploads/2021/05/MayBlog-RNA-TW.jpg">
+</p>
+
 ## Overview
 This project was based on the Kaggle competition [OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction](https://www.kaggle.com/competitions/stanford-covid-vaccine) that happened in 2020. The mRNA vaccines were the fastest vaccine candidates for COVID-19, but problems were arised when researchs noticed that the RNA molecules seem to degrade almost spotaneously. These vaccines needed super stable messenger RNA molecule to be designed. That's where this project comes into play. The goal of this project is to design and implement a deep learning model that can that can predict whether an RNA molecule will degrade or not.
 
