@@ -17,9 +17,15 @@ This project was based on the Kaggle competition [OpenVaccine: COVID-19 mRNA Vac
 
 
 # Paddy Leaf Classification
+
+<p align="center">
+<img src="https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-eu.s3.amazonaws.com%2Fc588b2a0-fbbe-11e8-b03f-bc62050f3c4e?dpr=1&fit=scale-down&source=next&width=700">
+</p>
+
+## Overview
 This project was based on the Kaggle Competition [Paddy Doctor: Paddy Disease Classification](https://www.kaggle.com/competitions/paddy-disease-classification). Paddy is the raw grain of rice before the removal of husk. It is farmed in tropical climates, but mainly in Asian countries. If paddy cultivation is left unsupervised, diseases and pests can cause yield loss of 70%. The aim of this project is design a deep learning classification model to classify whether a paddy leaf has  disease and if it does which disease.
 
-# Key challenges
+## Key challenges
 - Images from the dataset were not the same size
 - Experimenting to find best data augmentations for each model
 - Selecting suitable architectures for model
