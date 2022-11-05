@@ -4,7 +4,7 @@ This repository showcases all my personal machine/deep learing projects and thei
 # mRNA Degradation
 
 <p align="center">
-<img src="https://www.promegaconnections.com/wp-content/uploads/2021/05/MayBlog-RNA-TW.jpg">
+<img src="https://www.promegaconnections.com/wp-content/uploads/2021/05/MayBlog-RNA-TW.jpg" width="800">
 </p>
 
 ## Overview
@@ -19,7 +19,7 @@ This project was based on the Kaggle competition [OpenVaccine: COVID-19 mRNA Vac
 # Paddy Leaf Classification
 
 <p align="center">
-<img src="http://prod-upp-image-read.ft.com/c588b2a0-fbbe-11e8-b03f-bc62050f3c4e">
+<img src="http://prod-upp-image-read.ft.com/c588b2a0-fbbe-11e8-b03f-bc62050f3c4e" width="800">
 </p>
 
 ## Overview
