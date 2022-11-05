@@ -19,7 +19,7 @@ This project was based on the Kaggle competition [OpenVaccine: COVID-19 mRNA Vac
 # Paddy Leaf Classification
 
 <p align="center">
-<img src="https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-eu.s3.amazonaws.com%2Fc588b2a0-fbbe-11e8-b03f-bc62050f3c4e?dpr=1&fit=scale-down&source=next&width=700">
+<img src="http://prod-upp-image-read.ft.com/c588b2a0-fbbe-11e8-b03f-bc62050f3c4e">
 </p>
 
 ## Overview
