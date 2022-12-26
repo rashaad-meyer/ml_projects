@@ -30,3 +30,23 @@ This project was based on the Kaggle Competition [Paddy Doctor: Paddy Disease Cl
 - Experimenting to find best data augmentations for each model
 - Selecting suitable architectures for model
 - Ensembling the strongest models to achieve highest score
+
+# Retinal Optical Coherence Tomography
+
+<p align="center">
+<img src="https://i.imgur.com/fSTeZMd.png" width="800">
+</p>
+
+## Overview
+This project was based on Retinal OCT (Optical Coherent Tomography). This is an imaging technique used to capture high-resolution cross sections of the retinas of living patients. Approximately 30 million OCT scans are performed each yearm and the analysis and interpertation of these images takes up a significant amount of time. By building a deep learning model to classify between different:
+
+- Choroidal neovascularization (CNV) with neovascular membrane (white arrowheads) and associated subretinal fluid (arrows)
+- Diabetic macular edema (DME) with retinal-thickening-associated intraretinal fluid (arrows)
+- Multiple drusen present in early AMD
+- Normal retina
+
+I managed to get an accuracy of 99.9% on the test dataset!
+
+## Key challenges
+- Building the model with PyTorch and creating a training function to process both validation and training steps
+- Transfer learning using ResNet18
